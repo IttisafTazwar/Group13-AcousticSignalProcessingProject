@@ -1,0 +1,34 @@
+EDA SUMMARY REPORT - DeepShip Dataset
+======================================================================
+
+DATASET OVERVIEW:
+- Total audio files: 63
+- Total audio duration: 1.59 hours
+- Ship types: 4
+- Sampling rate: 22050 Hz
+
+DATA DISTRIBUTION:
+- Cargo: 12 files
+- Passengership: 20 files
+- Tanker: 28 files
+- Tug: 3 files
+
+ISSUES IDENTIFIED:
+1. Class imbalance (ratio: 9.33x)
+2. Duration inconsistency across ship types
+3. 10 low-volume files detected
+
+VISUALIZATIONS CREATED:
+- duration_by_ship_type.png
+- waveforms_by_ship_type.png
+- mel_spectrograms_by_ship_type.png
+- mfcc_features_by_ship_type.png
+- feature_comparison_by_ship_type.png
+- data_balance_analysis.png
+
+PREPROCESSING RECOMMENDATIONS:
+1. Normalize audio to [-1, 1] range
+2. Create fixed-length windows (30-60 seconds)
+3. Apply data augmentation to minority classes
+4. Extract MFCC and mel-spectrogram features
+5. Split into training/validation/testing sets
