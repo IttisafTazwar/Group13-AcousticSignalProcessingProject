@@ -1,0 +1,301 @@
+filepath,filename,class_folder,label,session,duration_s,sample_rate,channels,frames,subtype,size_mb
+/Users/zabir/Downloads/Cargo/20171107-5/5.wav,5.wav,Cargo,Cargo,20171107-5,208.0,32000,1,6656000,FLOAT,26.624
+/Users/zabir/Downloads/Cargo/20171105a-3/3.wav,3.wav,Cargo,Cargo,20171105a-3,297.0,32000,1,9504000,FLOAT,38.016
+/Users/zabir/Downloads/Cargo/20171107b-6/6.wav,6.wav,Cargo,Cargo,20171107b-6,487.0,32000,1,15584000,FLOAT,62.336
+/Users/zabir/Downloads/Cargo/20171115a-18/18.wav,18.wav,Cargo,Cargo,20171115a-18,436.0,32000,1,13952000,FLOAT,55.808
+/Users/zabir/Downloads/Cargo/20171122d-38/38.wav,38.wav,Cargo,Cargo,20171122d-38,196.0,32000,1,6272000,FLOAT,25.088
+/Users/zabir/Downloads/Cargo/20171119b-29/151043.wav,151043.wav,Cargo,Cargo,20171119b-29,339.0,32000,1,10848000,FLOAT,43.392
+/Users/zabir/Downloads/Cargo/20171120-30/214753.wav,214753.wav,Cargo,Cargo,20171120-30,324.0,32000,1,10368000,FLOAT,41.472
+/Users/zabir/Downloads/Cargo/20171117d-26/225044.wav,225044.wav,Cargo,Cargo,20171117d-26,221.0,32000,1,7072000,FLOAT,28.288
+/Users/zabir/Downloads/Cargo/20171104a-2/2.wav,2.wav,Cargo,Cargo,20171104a-2,440.0,32000,1,14080000,FLOAT,56.32
+/Users/zabir/Downloads/Cargo/20171115d-20/20.wav,20.wav,Cargo,Cargo,20171115d-20,391.0,32000,1,12512000,FLOAT,50.048
+/Users/zabir/Downloads/Cargo/20171111-8/8.wav,8.wav,Cargo,Cargo,20171111-8,279.0,32000,1,8928000,FLOAT,35.712
+/Users/zabir/Downloads/Cargo/20171124c-42/134001.wav,134001.wav,Cargo,Cargo,20171124c-42,406.0,32000,1,12992000,FLOAT,51.968
+/Users/zabir/Downloads/Cargo/20171201a-60/111402.wav,111402.wav,Cargo,Cargo,20171201a-60,293.0,32000,1,9376000,FLOAT,37.504
+/Users/zabir/Downloads/Cargo/20171114d-17/17.wav,17.wav,Cargo,Cargo,20171114d-17,218.0,32000,1,6976000,FLOAT,27.904
+/Users/zabir/Downloads/Cargo/20171121f-34/210343.wav,210343.wav,Cargo,Cargo,20171121f-34,390.0,32000,1,12480000,FLOAT,49.92
+/Users/zabir/Downloads/Cargo/20171125d-47/214505.wav,214505.wav,Cargo,Cargo,20171125d-47,213.0,32000,1,6816000,FLOAT,27.264
+/Users/zabir/Downloads/Cargo/20171130c-58/231720.wav,231720.wav,Cargo,Cargo,20171130c-58,440.0,32000,1,14080000,FLOAT,56.32
+/Users/zabir/Downloads/Cargo/20171201-59/080357.wav,080357.wav,Cargo,Cargo,20171201-59,307.0,32000,1,9824000,FLOAT,39.296
+/Users/zabir/Downloads/Cargo/20171117b-25/055206.wav,055206.wav,Cargo,Cargo,20171117b-25,378.0,32000,1,12096000,FLOAT,48.384
+/Users/zabir/Downloads/Cargo/20171118-27/27.wav,27.wav,Cargo,Cargo,20171118-27,196.0,32000,1,6272000,FLOAT,25.088
+/Users/zabir/Downloads/Cargo/20171114b-15/15.wav,15.wav,Cargo,Cargo,20171114b-15,187.0,32000,1,5984000,FLOAT,23.936
+/Users/zabir/Downloads/Cargo/20171125e-48/234924.wav,234924.wav,Cargo,Cargo,20171125e-48,500.0,32000,1,16000000,FLOAT,64.0
+/Users/zabir/Downloads/Cargo/20171124a-41/41.wav,41.wav,Cargo,Cargo,20171124a-41,183.0,32000,1,5856000,FLOAT,23.424
+/Users/zabir/Downloads/Cargo/20171126b-51/044753.wav,044753.wav,Cargo,Cargo,20171126b-51,479.0,32000,1,15328000,FLOAT,61.312
+/Users/zabir/Downloads/Cargo/20171202c-63/123015.wav,123015.wav,Cargo,Cargo,20171202c-63,363.0,32000,1,11616000,FLOAT,46.464
+/Users/zabir/Downloads/Cargo/20171113-13/13.wav,13.wav,Cargo,Cargo,20171113-13,347.0,32000,1,11104000,FLOAT,44.416
+/Users/zabir/Downloads/Cargo/20171126a-50/035027.wav,035027.wav,Cargo,Cargo,20171126a-50,226.0,32000,1,7232000,FLOAT,28.928
+/Users/zabir/Downloads/Cargo/20171111e-9/9.wav,9.wav,Cargo,Cargo,20171111e-9,300.0,32000,1,9600000,FLOAT,38.4
+/Users/zabir/Downloads/Cargo/20171114a-14/14.wav,14.wav,Cargo,Cargo,20171114a-14,383.0,32000,1,12256000,FLOAT,49.024
+/Users/zabir/Downloads/Cargo/20171117a-24/045829.wav,045829.wav,Cargo,Cargo,20171117a-24,300.0,32000,1,9600000,FLOAT,38.4
+/Users/zabir/Downloads/Cargo/20171116-22/002044.wav,002044.wav,Cargo,Cargo,20171116-22,357.0,32000,1,11424000,FLOAT,45.696
+/Users/zabir/Downloads/Cargo/20171112-12/12.wav,12.wav,Cargo,Cargo,20171112-12,255.0,32000,1,8160000,FLOAT,32.64
+/Users/zabir/Downloads/Cargo/20171121e-33/202039.wav,202039.wav,Cargo,Cargo,20171121e-33,347.0,32000,1,11104000,FLOAT,44.416
+/Users/zabir/Downloads/Cargo/20171129-55/000645.wav,000645.wav,Cargo,Cargo,20171129-55,354.0,32000,1,11328000,FLOAT,45.312
+/Users/zabir/Downloads/Cargo/20171122a-35/060651.wav,060651.wav,Cargo,Cargo,20171122a-35,303.0,32000,1,9696000,FLOAT,38.784
+/Users/zabir/Downloads/Cargo/20171126-49/023314.wav,023314.wav,Cargo,Cargo,20171126-49,251.0,32000,1,8032000,FLOAT,32.128
+/Users/zabir/Downloads/Cargo/20171126c-52/063408.wav,063408.wav,Cargo,Cargo,20171126c-52,372.0,32000,1,11904000,FLOAT,47.616
+/Users/zabir/Downloads/Cargo/20171104-1/1.wav,1.wav,Cargo,Cargo,20171104-1,457.0,32000,1,14624000,FLOAT,58.496
+/Users/zabir/Downloads/Cargo/20171124d-43/161634.wav,161634.wav,Cargo,Cargo,20171124d-43,351.0,32000,1,11232000,FLOAT,44.928
+/Users/zabir/Downloads/Cargo/20171125-44/44.wav,44.wav,Cargo,Cargo,20171125-44,200.0,32000,1,6400000,FLOAT,25.6
+/Users/zabir/Downloads/Cargo/20171114c-16/16.wav,16.wav,Cargo,Cargo,20171114c-16,294.0,32000,1,9408000,FLOAT,37.632
+/Users/zabir/Downloads/Cargo/20171106-4/4.wav,4.wav,Cargo,Cargo,20171106-4,328.0,32000,1,10496000,FLOAT,41.984
+/Users/zabir/Downloads/Cargo/20171122b-36/075414.wav,075414.wav,Cargo,Cargo,20171122b-36,267.0,32000,1,8544000,FLOAT,34.176
+/Users/zabir/Downloads/Cargo/20171111f-10/10.wav,10.wav,Cargo,Cargo,20171111f-10,291.0,32000,1,9312000,FLOAT,37.248
+/Users/zabir/Downloads/Cargo/20171118a-28/074918.wav,074918.wav,Cargo,Cargo,20171118a-28,488.0,32000,1,15616000,FLOAT,62.464
+/Users/zabir/Downloads/Cargo/20171111g-11/11.wav,11.wav,Cargo,Cargo,20171111g-11,441.0,32000,1,14112000,FLOAT,56.448
+/Users/zabir/Downloads/Cargo/20171127-53/231436.wav,231436.wav,Cargo,Cargo,20171127-53,354.0,32000,1,11328000,FLOAT,45.312
+/Users/zabir/Downloads/Cargo/20171110-7/7.wav,7.wav,Cargo,Cargo,20171110-7,534.0,32000,1,17088000,FLOAT,68.352
+/Users/zabir/Downloads/Cargo/20171115b-19/19.wav,19.wav,Cargo,Cargo,20171115b-19,341.0,32000,1,10912000,FLOAT,43.648
+/Users/zabir/Downloads/Cargo/20171205e-71/111659.wav,111659.wav,Cargo,Cargo,20171205e-71,275.0,32000,1,8800000,FLOAT,35.2
+/Users/zabir/Downloads/Passengership/20170512a-77/113827.wav,113827.wav,Passengership,Passengership,20170512a-77,195.0,32000,1,6240000,FLOAT,24.96
+/Users/zabir/Downloads/Passengership/20170513a-79/201854.wav,201854.wav,Passengership,Passengership,20170513a-79,24.0,32000,1,768000,FLOAT,3.072
+/Users/zabir/Downloads/Passengership/20160827-35/043503.wav,043503.wav,Passengership,Passengership,20160827-35,283.0,32000,1,9056000,FLOAT,36.224
+/Users/zabir/Downloads/Passengership/20180511-165/101015.wav,101015.wav,Passengership,Passengership,20180511-165,8.0,32000,1,256000,FLOAT,1.024
+/Users/zabir/Downloads/Passengership/20170506a-71/114552.wav,114552.wav,Passengership,Passengership,20170506a-71,350.0,32000,1,11200000,FLOAT,44.8
+/Users/zabir/Downloads/Passengership/20170617a-96/073155.wav,073155.wav,Passengership,Passengership,20170617a-96,1887.0,32000,1,60384000,FLOAT,241.536
+/Users/zabir/Downloads/Passengership/20170330-61/175151.wav,175151.wav,Passengership,Passengership,20170330-61,143.0,32000,1,4576000,FLOAT,18.304
+/Users/zabir/Downloads/Passengership/20161019a-46/174803.wav,174803.wav,Passengership,Passengership,20161019a-46,337.0,32000,1,10784000,FLOAT,43.136
+/Users/zabir/Downloads/Passengership/20170603-89/012058.wav,012058.wav,Passengership,Passengership,20170603-89,50.0,32000,1,1600000,FLOAT,6.4
+/Users/zabir/Downloads/Passengership/20180926-190/011928.wav,011928.wav,Passengership,Passengership,20180926-190,32.0,32000,1,1024000,FLOAT,4.096
+/Users/zabir/Downloads/Passengership/20160516a-9/9.wav,9.wav,Passengership,Passengership,20160516a-9,11.0,32000,1,352000,FLOAT,1.408
+/Users/zabir/Downloads/Passengership/20160908a-40/174717.wav,174717.wav,Passengership,Passengership,20160908a-40,429.0,32000,1,13728000,FLOAT,54.912
+/Users/zabir/Downloads/Passengership/20180915-78/062231.wav,062231.wav,Passengership,Passengership,20180915-78,24.0,32000,1,768000,FLOAT,3.072
+/Users/zabir/Downloads/Passengership/20161102-48/124450.wav,124450.wav,Passengership,Passengership,20161102-48,351.0,32000,1,11232000,FLOAT,44.928
+/Users/zabir/Downloads/Passengership/20160603-15/042208.wav,042208.wav,Passengership,Passengership,20160603-15,458.0,32000,1,14656000,FLOAT,58.624
+/Users/zabir/Downloads/Passengership/20160604-16/16.wav,16.wav,Passengership,Passengership,20160604-16,11.0,32000,1,352000,FLOAT,1.408
+/Users/zabir/Downloads/Passengership/20160521a-10/041411.wav,041411.wav,Passengership,Passengership,20160521a-10,364.0,32000,1,11648000,FLOAT,46.592
+/Users/zabir/Downloads/Passengership/20180905b-182/061547.wav,061547.wav,Passengership,Passengership,20180905b-182,235.0,32000,1,7520000,FLOAT,30.08
+/Users/zabir/Downloads/Passengership/20160831-38/034757.wav,034757.wav,Passengership,Passengership,20160831-38,238.0,32000,1,7616000,FLOAT,30.464
+/Users/zabir/Downloads/Passengership/20160505-1/1.wav,1.wav,Passengership,Passengership,20160505-1,37.0,32000,1,1184000,FLOAT,4.736
+/Users/zabir/Downloads/Passengership/20180905c-183/212331.wav,212331.wav,Passengership,Passengership,20180905c-183,394.0,32000,1,12608000,FLOAT,50.432
+/Users/zabir/Downloads/Passengership/20170114-53/053615.wav,053615.wav,Passengership,Passengership,20170114-53,53.0,32000,1,1696000,FLOAT,6.784
+/Users/zabir/Downloads/Passengership/20180929-192/012612.wav,012612.wav,Passengership,Passengership,20180929-192,8.0,32000,1,256000,FLOAT,1.024
+/Users/zabir/Downloads/Passengership/20181003-193/012519.wav,012519.wav,Passengership,Passengership,20181003-193,156.0,32000,1,4992000,FLOAT,19.968
+/Users/zabir/Downloads/Passengership/20160629a-23/23.wav,23.wav,Passengership,Passengership,20160629a-23,130.0,32000,1,4160000,FLOAT,16.64
+/Users/zabir/Downloads/Passengership/20170408a-66/224944.wav,224944.wav,Passengership,Passengership,20170408a-66,50.0,32000,1,1600000,FLOAT,6.4
+/Users/zabir/Downloads/Passengership/20170111-52/193600.wav,193600.wav,Passengership,Passengership,20170111-52,300.0,32000,1,9600000,FLOAT,38.4
+/Users/zabir/Downloads/Passengership/20160917a-44/184735.wav,184735.wav,Passengership,Passengership,20160917a-44,230.0,32000,1,7360000,FLOAT,29.44
+/Users/zabir/Downloads/Passengership/20170508a-73/152055.wav,152055.wav,Passengership,Passengership,20170508a-73,7.0,32000,1,224000,FLOAT,0.896
+/Users/zabir/Downloads/Passengership/20180917-81/035007.wav,035007.wav,Passengership,Passengership,20180917-81,8.0,32000,1,256000,FLOAT,1.024
+/Users/zabir/Downloads/Passengership/20170430-69/011712.wav,011712.wav,Passengership,Passengership,20170430-69,67.0,32000,1,2144000,FLOAT,8.576
+/Users/zabir/Downloads/Passengership/20170725-106/143547.wav,143547.wav,Passengership,Passengership,20170725-106,39.0,32000,1,1248000,FLOAT,4.992
+/Users/zabir/Downloads/Passengership/20160515-8/8.wav,8.wav,Passengership,Passengership,20160515-8,12.0,32000,1,384000,FLOAT,1.536
+/Users/zabir/Downloads/Passengership/20160522-11/182048.wav,182048.wav,Passengership,Passengership,20160522-11,481.0,32000,1,15392000,FLOAT,61.568
+/Users/zabir/Downloads/Passengership/20160916a-43/124641.wav,124641.wav,Passengership,Passengership,20160916a-43,282.0,32000,1,9024000,FLOAT,36.096
+/Users/zabir/Downloads/Passengership/20160506d-3/3.wav,3.wav,Passengership,Passengership,20160506d-3,556.0,32000,1,17792000,FLOAT,71.168
+/Users/zabir/Downloads/Passengership/20160724a-27/27.wav,27.wav,Passengership,Passengership,20160724a-27,33.0,32000,1,1056000,FLOAT,4.224
+/Users/zabir/Downloads/Passengership/20170408-65/040520.wav,040520.wav,Passengership,Passengership,20170408-65,298.0,32000,1,9536000,FLOAT,38.144
+/Users/zabir/Downloads/Passengership/20160813a-32/32.wav,32.wav,Passengership,Passengership,20160813a-32,54.0,32000,1,1728000,FLOAT,6.912
+/Users/zabir/Downloads/Passengership/20160529-13/083740.wav,083740.wav,Passengership,Passengership,20160529-13,229.0,32000,1,7328000,FLOAT,29.312
+/Users/zabir/Downloads/Passengership/20170215-55/152700.wav,152700.wav,Passengership,Passengership,20170215-55,476.0,32000,1,15232000,FLOAT,60.928
+/Users/zabir/Downloads/Passengership/20160606-17/17.wav,17.wav,Passengership,Passengership,20160606-17,26.0,32000,1,832000,FLOAT,3.328
+/Users/zabir/Downloads/Passengership/20160507a-4/4.wav,4.wav,Passengership,Passengership,20160507a-4,204.0,32000,1,6528000,FLOAT,26.112
+/Users/zabir/Downloads/Passengership/20170701-100/013614.wav,013614.wav,Passengership,Passengership,20170701-100,56.0,32000,1,1792000,FLOAT,7.168
+/Users/zabir/Downloads/Passengership/20160827-36/043503.wav,043503.wav,Passengership,Passengership,20160827-36,283.0,32000,1,9056000,FLOAT,36.224
+/Users/zabir/Downloads/Passengership/20160821a-34/174334.wav,174334.wav,Passengership,Passengership,20160821a-34,346.0,32000,1,11072000,FLOAT,44.288
+/Users/zabir/Downloads/Passengership/20160727-29/29.wav,29.wav,Passengership,Passengership,20160727-29,36.0,32000,1,1152000,FLOAT,4.608
+/Users/zabir/Downloads/Passengership/20180213-143/234934.wav,234934.wav,Passengership,Passengership,20180213-143,120.0,32000,1,3840000,FLOAT,15.36
+/Users/zabir/Downloads/Passengership/20160724b-28/110548.wav,110548.wav,Passengership,Passengership,20160724b-28,253.0,32000,1,8096000,FLOAT,32.384
+/Users/zabir/Downloads/Passengership/20160820a-33/33.wav,33.wav,Passengership,Passengership,20160820a-33,112.0,32000,1,3584000,FLOAT,14.336
+/Users/zabir/Downloads/Passengership/20170615-93/124844.wav,124844.wav,Passengership,Passengership,20170615-93,122.0,32000,1,3904000,FLOAT,15.616
+/Users/zabir/Downloads/Passengership/20180821-18/153439.wav,153439.wav,Passengership,Passengership,20180821-18,221.0,32000,1,7072000,FLOAT,28.288
+/Users/zabir/Downloads/Passengership/20160507c-6/6.wav,6.wav,Passengership,Passengership,20160507c-6,30.0,32000,1,960000,FLOAT,3.84
+/Users/zabir/Downloads/Passengership/20170509-74/174012.wav,174012.wav,Passengership,Passengership,20170509-74,364.0,32000,1,11648000,FLOAT,46.592
+/Users/zabir/Downloads/Passengership/20160827-37/37.wav,37.wav,Passengership,Passengership,20160827-37,162.0,32000,1,5184000,FLOAT,20.736
+/Users/zabir/Downloads/Passengership/20160506-2/2.wav,2.wav,Passengership,Passengership,20160506-2,334.0,32000,1,10688000,FLOAT,42.752
+/Users/zabir/Downloads/Passengership/20160909-41/41.wav,41.wav,Passengership,Passengership,20160909-41,23.0,32000,1,736000,FLOAT,2.944
+/Users/zabir/Downloads/Passengership/20170429a-68/102113.wav,102113.wav,Passengership,Passengership,20170429a-68,109.0,32000,1,3488000,FLOAT,13.952
+/Users/zabir/Downloads/Passengership/20161003b-45/175305.wav,175305.wav,Passengership,Passengership,20161003b-45,320.0,32000,1,10240000,FLOAT,40.96
+/Users/zabir/Downloads/Passengership/20160601c-14/14.wav,14.wav,Passengership,Passengership,20160601c-14,48.0,32000,1,1536000,FLOAT,6.144
+/Users/zabir/Downloads/Passengership/20160904a-39/035818.wav,035818.wav,Passengership,Passengership,20160904a-39,278.0,32000,1,8896000,FLOAT,35.584
+/Users/zabir/Downloads/Passengership/20180502-158/030648.wav,030648.wav,Passengership,Passengership,20180502-158,20.0,32000,1,640000,FLOAT,2.56
+/Users/zabir/Downloads/Passengership/20170331-62/044959.wav,044959.wav,Passengership,Passengership,20170331-62,176.0,32000,1,5632000,FLOAT,22.528
+/Users/zabir/Downloads/Passengership/20160528-12/12.wav,12.wav,Passengership,Passengership,20160528-12,18.0,32000,1,576000,FLOAT,2.304
+/Users/zabir/Downloads/Passengership/20180215-144/185044.wav,185044.wav,Passengership,Passengership,20180215-144,31.0,32000,1,992000,FLOAT,3.968
+/Users/zabir/Downloads/Passengership/20160514-7/113853.wav,113853.wav,Passengership,Passengership,20160514-7,350.0,32000,1,11200000,FLOAT,44.8
+/Users/zabir/Downloads/Passengership/20160910-42/035117.wav,035117.wav,Passengership,Passengership,20160910-42,322.0,32000,1,10304000,FLOAT,41.216
+/Users/zabir/Downloads/Passengership/20160716-26/035748.wav,035748.wav,Passengership,Passengership,20160716-26,319.0,32000,1,10208000,FLOAT,40.832
+/Users/zabir/Downloads/Passengership/20170508-72/035234.wav,035234.wav,Passengership,Passengership,20170508-72,236.0,32000,1,7552000,FLOAT,30.208
+/Users/zabir/Downloads/Passengership/20180514-167/181453.wav,181453.wav,Passengership,Passengership,20180514-167,6.0,32000,1,192000,FLOAT,0.768
+/Users/zabir/Downloads/Passengership/20160625a-22/041906.wav,041906.wav,Passengership,Passengership,20160625a-22,385.0,32000,1,12320000,FLOAT,49.28
+/Users/zabir/Downloads/Passengership/20170218-56/050212.wav,050212.wav,Passengership,Passengership,20170218-56,218.0,32000,1,6976000,FLOAT,27.904
+/Users/zabir/Downloads/Passengership/20160806-30/30.wav,30.wav,Passengership,Passengership,20160806-30,6.0,32000,1,192000,FLOAT,0.768
+/Users/zabir/Downloads/Passengership/20160616a-20/165320.wav,165320.wav,Passengership,Passengership,20160616a-20,390.0,32000,1,12480000,FLOAT,49.92
+/Users/zabir/Downloads/Passengership/20180912-25/034620.wav,034620.wav,Passengership,Passengership,20180912-25,118.0,32000,1,3776000,FLOAT,15.104
+/Users/zabir/Downloads/Passengership/20180905a-19/211808.wav,211808.wav,Passengership,Passengership,20180905a-19,160.0,32000,1,5120000,FLOAT,20.48
+/Users/zabir/Downloads/Passengership/20170401-64/000636.wav,000636.wav,Passengership,Passengership,20170401-64,19.0,32000,1,608000,FLOAT,2.432
+/Users/zabir/Downloads/Passengership/20170401-63/000636.wav,000636.wav,Passengership,Passengership,20170401-63,19.0,32000,1,608000,FLOAT,2.432
+/Users/zabir/Downloads/Passengership/20170527-86/013032.wav,013032.wav,Passengership,Passengership,20170527-86,53.0,32000,1,1696000,FLOAT,6.784
+/Users/zabir/Downloads/Passengership/20180926a-191/012514.wav,012514.wav,Passengership,Passengership,20180926a-191,6.0,32000,1,192000,FLOAT,0.768
+/Users/zabir/Downloads/Passengership/20170322-60/061551.wav,061551.wav,Passengership,Passengership,20170322-60,24.0,32000,1,768000,FLOAT,3.072
+/Users/zabir/Downloads/Passengership/20170312-59/153853.wav,153853.wav,Passengership,Passengership,20170312-59,104.0,32000,1,3328000,FLOAT,13.312
+/Users/zabir/Downloads/Passengership/20160507b-5/5.wav,5.wav,Passengership,Passengership,20160507b-5,14.0,32000,1,448000,FLOAT,1.792
+/Users/zabir/Downloads/Passengership/20170503c-70/201813.wav,201813.wav,Passengership,Passengership,20170503c-70,12.0,32000,1,384000,FLOAT,1.536
+/Users/zabir/Downloads/Passengership/20161214-50/50.wav,50.wav,Passengership,Passengership,20161214-50,163.0,32000,1,5216000,FLOAT,20.864
+/Users/zabir/Downloads/Passengership/20170111-51/193600.wav,193600.wav,Passengership,Passengership,20170111-51,300.0,32000,1,9600000,FLOAT,38.4
+/Users/zabir/Downloads/Passengership/20170520a-84/174851.wav,174851.wav,Passengership,Passengership,20170520a-84,118.0,32000,1,3776000,FLOAT,15.104
+/Users/zabir/Downloads/Passengership/20161028a-47/224803.wav,224803.wav,Passengership,Passengership,20161028a-47,320.0,32000,1,10240000,FLOAT,40.96
+/Users/zabir/Downloads/Passengership/20171105-126/235036.wav,235036.wav,Passengership,Passengership,20171105-126,8.0,32000,1,256000,FLOAT,1.024
+/Users/zabir/Downloads/Passengership/20160807a-31/31.wav,31.wav,Passengership,Passengership,20160807a-31,16.0,32000,1,512000,FLOAT,2.048
+/Users/zabir/Downloads/Cargo 2/20171204a-67/051220.wav,051220.wav,Cargo 2,Cargo,20171204a-67,207.0,32000,1,6624000,FLOAT,26.496
+/Users/zabir/Downloads/Cargo 2/20171203-65/191824.wav,191824.wav,Cargo 2,Cargo,20171203-65,370.0,32000,1,11840000,FLOAT,47.36
+/Users/zabir/Downloads/Cargo 2/20171210-88/004442.wav,004442.wav,Cargo 2,Cargo,20171210-88,538.0,32000,1,17216000,FLOAT,68.864
+/Users/zabir/Downloads/Cargo 2/20171125b-45/45.wav,45.wav,Cargo 2,Cargo,20171125b-45,363.0,32000,1,11616000,FLOAT,46.464
+/Users/zabir/Downloads/Cargo 2/20171208-84/005033.wav,005033.wav,Cargo 2,Cargo,20171208-84,366.0,32000,1,11712000,FLOAT,46.848
+/Users/zabir/Downloads/Cargo 2/20171207f-83/190947.wav,190947.wav,Cargo 2,Cargo,20171207f-83,250.0,32000,1,8000000,FLOAT,32.0
+/Users/zabir/Downloads/Cargo 2/20171202a-61/054923.wav,054923.wav,Cargo 2,Cargo,20171202a-61,344.0,32000,1,11008000,FLOAT,44.032
+/Users/zabir/Downloads/Cargo 2/20171212d-94/141302.wav,141302.wav,Cargo 2,Cargo,20171212d-94,426.0,32000,1,13632000,FLOAT,54.528
+/Users/zabir/Downloads/Cargo 2/20171121-31/031902.wav,031902.wav,Cargo 2,Cargo,20171121-31,1020.0,32000,1,32640000,FLOAT,130.56
+/Users/zabir/Downloads/Cargo 2/20171213g-100/234857.wav,234857.wav,Cargo 2,Cargo,20171213g-100,350.0,32000,1,11200000,FLOAT,44.8
+/Users/zabir/Downloads/Cargo 2/20171206-76/004911.wav,004911.wav,Cargo 2,Cargo,20171206-76,498.0,32000,1,15936000,FLOAT,63.744
+/Users/zabir/Downloads/Cargo 2/20171209c-87/140111.wav,140111.wav,Cargo 2,Cargo,20171209c-87,411.0,32000,1,13152000,FLOAT,52.608
+/Users/zabir/Downloads/Cargo 2/20171205-69/69.wav,69.wav,Cargo 2,Cargo,20171205-69,184.0,32000,1,5888000,FLOAT,23.552
+/Users/zabir/Downloads/Cargo 2/20171202b-62/62.wav,62.wav,Cargo 2,Cargo,20171202b-62,198.0,32000,1,6336000,FLOAT,25.344
+/Users/zabir/Downloads/Cargo 2/20171210c-90/124043.wav,124043.wav,Cargo 2,Cargo,20171210c-90,370.0,32000,1,11840000,FLOAT,47.36
+/Users/zabir/Downloads/Cargo 2/20171215-106/014609.wav,014609.wav,Cargo 2,Cargo,20171215-106,336.0,32000,1,10752000,FLOAT,43.008
+/Users/zabir/Downloads/Cargo 2/20171214a-101/075400.wav,075400.wav,Cargo 2,Cargo,20171214a-101,319.0,32000,1,10208000,FLOAT,40.832
+/Users/zabir/Downloads/Cargo 2/20171213b-96/96.wav,96.wav,Cargo 2,Cargo,20171213b-96,199.0,32000,1,6368000,FLOAT,25.472
+/Users/zabir/Downloads/Cargo 2/20171213f-99/99.wav,99.wav,Cargo 2,Cargo,20171213f-99,186.0,32000,1,5952000,FLOAT,23.808
+/Users/zabir/Downloads/Cargo 2/20171204-66/024305.wav,024305.wav,Cargo 2,Cargo,20171204-66,212.0,32000,1,6784000,FLOAT,27.136
+/Users/zabir/Downloads/Cargo 2/20171207-79/010450.wav,010450.wav,Cargo 2,Cargo,20171207-79,240.0,32000,1,7680000,FLOAT,30.72
+/Users/zabir/Downloads/Cargo 2/20171209b-86/054935.wav,054935.wav,Cargo 2,Cargo,20171209b-86,208.0,32000,1,6656000,FLOAT,26.624
+/Users/zabir/Downloads/Cargo 2/20171210a-89/020139.wav,020139.wav,Cargo 2,Cargo,20171210a-89,382.0,32000,1,12224000,FLOAT,48.896
+/Users/zabir/Downloads/Cargo 2/20171121c-32/111158.wav,111158.wav,Cargo 2,Cargo,20171121c-32,736.0,32000,1,23552000,FLOAT,94.208
+/Users/zabir/Downloads/Cargo 2/20171212a-91/003918.wav,003918.wav,Cargo 2,Cargo,20171212a-91,255.0,32000,1,8160000,FLOAT,32.64
+/Users/zabir/Downloads/Cargo 2/20171130-57/165031.wav,165031.wav,Cargo 2,Cargo,20171130-57,354.0,32000,1,11328000,FLOAT,45.312
+/Users/zabir/Downloads/Cargo 2/20171213-95/042800.wav,042800.wav,Cargo 2,Cargo,20171213-95,260.0,32000,1,8320000,FLOAT,33.28
+/Users/zabir/Downloads/Cargo 2/20171215d-110/110.wav,110.wav,Cargo 2,Cargo,20171215d-110,202.0,32000,1,6464000,FLOAT,25.856
+/Users/zabir/Downloads/Cargo 2/20171205f-72/114551.wav,114551.wav,Cargo 2,Cargo,20171205f-72,313.0,32000,1,10016000,FLOAT,40.064
+/Users/zabir/Downloads/Cargo 2/20171123c-40/135730.wav,135730.wav,Cargo 2,Cargo,20171123c-40,537.0,32000,1,17184000,FLOAT,68.736
+/Users/zabir/Downloads/Cargo 2/20171125c-46/134833.wav,134833.wav,Cargo 2,Cargo,20171125c-46,586.0,32000,1,18752000,FLOAT,75.008
+/Users/zabir/Downloads/Cargo 2/20171129c-56/075459.wav,075459.wav,Cargo 2,Cargo,20171129c-56,543.0,32000,1,17376000,FLOAT,69.504
+/Users/zabir/Downloads/Cargo 2/20171205g-73/124454.wav,124454.wav,Cargo 2,Cargo,20171205g-73,439.0,32000,1,14048000,FLOAT,56.192
+/Users/zabir/Downloads/Cargo 2/20171213d-97/154210.wav,154210.wav,Cargo 2,Cargo,20171213d-97,276.0,32000,1,8832000,FLOAT,35.328
+/Users/zabir/Downloads/Cargo 2/20171212c-93/101404.wav,101404.wav,Cargo 2,Cargo,20171212c-93,206.0,32000,1,6592000,FLOAT,26.368
+/Users/zabir/Downloads/Cargo 2/20171214d-103/103.wav,103.wav,Cargo 2,Cargo,20171214d-103,199.0,32000,1,6368000,FLOAT,25.472
+/Users/zabir/Downloads/Cargo 2/20171207d-82/100039.wav,100039.wav,Cargo 2,Cargo,20171207d-82,229.0,32000,1,7328000,FLOAT,29.312
+/Users/zabir/Downloads/Cargo 2/20171205h-74/140834.wav,140834.wav,Cargo 2,Cargo,20171205h-74,410.0,32000,1,13120000,FLOAT,52.48
+/Users/zabir/Downloads/Cargo 2/20171206e-78/78.wav,78.wav,Cargo 2,Cargo,20171206e-78,194.0,32000,1,6208000,FLOAT,24.832
+/Users/zabir/Downloads/Cargo 2/20171206a-77/014907.wav,014907.wav,Cargo 2,Cargo,20171206a-77,368.0,32000,1,11776000,FLOAT,47.104
+/Users/zabir/Downloads/Cargo 2/20171128a-54/080742.wav,080742.wav,Cargo 2,Cargo,20171128a-54,395.0,32000,1,12640000,FLOAT,50.56
+/Users/zabir/Downloads/Cargo 2/20171212b-92/040423.wav,040423.wav,Cargo 2,Cargo,20171212b-92,361.0,32000,1,11552000,FLOAT,46.208
+/Users/zabir/Downloads/Cargo 2/20171205i-75/202122.wav,202122.wav,Cargo 2,Cargo,20171205i-75,221.0,32000,1,7072000,FLOAT,28.288
+/Users/zabir/Downloads/Cargo 2/20171204b-68/201125.wav,201125.wav,Cargo 2,Cargo,20171204b-68,356.0,32000,1,11392000,FLOAT,45.568
+/Users/zabir/Downloads/Cargo 2/20171122c-37/113017.wav,113017.wav,Cargo 2,Cargo,20171122c-37,465.0,32000,1,14880000,FLOAT,59.52
+/Users/zabir/Downloads/Cargo 2/20171123-39/004508.wav,004508.wav,Cargo 2,Cargo,20171123-39,348.0,32000,1,11136000,FLOAT,44.544
+/Users/zabir/Downloads/Cargo 2/20171205a-70/030344.wav,030344.wav,Cargo 2,Cargo,20171205a-70,373.0,32000,1,11936000,FLOAT,47.744
+/Users/zabir/Downloads/Passengership 3/20180630a-176/200100.wav,200100.wav,Passengership 3,Passengership,20180630a-176,427.0,32000,1,13664000,FLOAT,54.656
+/Users/zabir/Downloads/Passengership 3/20170906-115/104632.wav,104632.wav,Passengership 3,Passengership,20170906-115,525.0,32000,1,16800000,FLOAT,67.2
+/Users/zabir/Downloads/Passengership 3/20180524-172/225612.wav,225612.wav,Passengership 3,Passengership,20180524-172,236.0,32000,1,7552000,FLOAT,30.208
+/Users/zabir/Downloads/Passengership 3/20170906-114/104632.wav,104632.wav,Passengership 3,Passengership,20170906-114,525.0,32000,1,16800000,FLOAT,67.2
+/Users/zabir/Downloads/Passengership 3/20180703-177/221012.wav,221012.wav,Passengership 3,Passengership,20180703-177,208.0,32000,1,6656000,FLOAT,26.624
+/Users/zabir/Downloads/Passengership 3/20180307-146/075607.wav,075607.wav,Passengership 3,Passengership,20180307-146,235.0,32000,1,7520000,FLOAT,30.08
+/Users/zabir/Downloads/Passengership 3/20180406a-153/151655.wav,151655.wav,Passengership 3,Passengership,20180406a-153,330.0,32000,1,10560000,FLOAT,42.24
+/Users/zabir/Downloads/Passengership 3/20170709-101/095127.wav,095127.wav,Passengership 3,Passengership,20170709-101,720.0,32000,1,23040000,FLOAT,92.16
+/Users/zabir/Downloads/Passengership 3/20180518-168/031804.wav,031804.wav,Passengership 3,Passengership,20180518-168,108.0,32000,1,3456000,FLOAT,13.824
+/Users/zabir/Downloads/Passengership 3/20180630-175/094326.wav,094326.wav,Passengership 3,Passengership,20180630-175,349.0,32000,1,11168000,FLOAT,44.672
+/Users/zabir/Downloads/Passengership 3/20180330-151/032743.wav,032743.wav,Passengership 3,Passengership,20180330-151,1020.0,32000,1,32640000,FLOAT,130.56
+/Users/zabir/Downloads/Passengership 3/20180619-174/062048.wav,062048.wav,Passengership 3,Passengership,20180619-174,25.0,32000,1,800000,FLOAT,3.2
+/Users/zabir/Downloads/Passengership 3/20171229-136/201102.wav,201102.wav,Passengership 3,Passengership,20171229-136,300.0,32000,1,9600000,PCM_24,28.8
+/Users/zabir/Downloads/Passengership 3/20180711-178/094820.wav,094820.wav,Passengership 3,Passengership,20180711-178,349.0,32000,1,11168000,FLOAT,44.672
+/Users/zabir/Downloads/Passengership 3/20180828a-181/125034.wav,125034.wav,Passengership 3,Passengership,20180828a-181,73.0,32000,1,2336000,FLOAT,9.344
+/Users/zabir/Downloads/Passengership 3/20180520-170/120550.wav,120550.wav,Passengership 3,Passengership,20180520-170,340.0,32000,1,10880000,FLOAT,43.52
+/Users/zabir/Downloads/Passengership 3/20180513-166/084039.wav,084039.wav,Passengership 3,Passengership,20180513-166,369.0,32000,1,11808000,FLOAT,47.232
+/Users/zabir/Downloads/Passengership 3/20180722-179/181231.wav,181231.wav,Passengership 3,Passengership,20180722-179,626.0,32000,1,20032000,FLOAT,80.128
+/Users/zabir/Downloads/Passengership 3/20180522-171/064727.wav,064727.wav,Passengership 3,Passengership,20180522-171,780.0,32000,1,24960000,FLOAT,99.84
+/Users/zabir/Downloads/Passengership 3/20180827-180/182309.wav,182309.wav,Passengership 3,Passengership,20180827-180,106.0,32000,1,3392000,FLOAT,13.568
+/Users/zabir/Downloads/Passengership 3/20180326-149/180641.wav,180641.wav,Passengership 3,Passengership,20180326-149,392.0,32000,1,12544000,FLOAT,50.176
+/Users/zabir/Downloads/Passengership 3/20180617-173/201949.wav,201949.wav,Passengership 3,Passengership,20180617-173,176.0,32000,1,5632000,FLOAT,22.528
+/Users/zabir/Downloads/Passengership 3/20180501-157/112008.wav,112008.wav,Passengership 3,Passengership,20180501-157,360.0,32000,1,11520000,FLOAT,46.08
+/Users/zabir/Downloads/Passengership 3/20180914-185/182348.wav,182348.wav,Passengership 3,Passengership,20180914-185,411.0,32000,1,13152000,FLOAT,52.608
+/Users/zabir/Downloads/Passengership 3/20180420-155/033310.wav,033310.wav,Passengership 3,Passengership,20180420-155,368.0,32000,1,11776000,FLOAT,47.104
+/Users/zabir/Downloads/Passengership 3/20180505a-161/101511.wav,101511.wav,Passengership 3,Passengership,20180505a-161,339.0,32000,1,10848000,FLOAT,43.392
+/Users/zabir/Downloads/Passengership 3/20180503-159/153434.wav,153434.wav,Passengership 3,Passengership,20180503-159,364.0,32000,1,11648000,FLOAT,46.592
+/Users/zabir/Downloads/Passengership 3/20180506a-163/105313.wav,105313.wav,Passengership 3,Passengership,20180506a-163,490.0,32000,1,15680000,FLOAT,62.72
+/Users/zabir/Downloads/Passengership 3/20180925-189/012450.wav,012450.wav,Passengership 3,Passengership,20180925-189,11.0,32000,1,352000,FLOAT,1.408
+/Users/zabir/Downloads/Passengership 3/20171210-135/021603.wav,021603.wav,Passengership 3,Passengership,20171210-135,339.0,32000,1,10848000,FLOAT,43.392
+/Users/zabir/Downloads/Passengership 3/20180506b-164/113050.wav,113050.wav,Passengership 3,Passengership,20180506b-164,366.0,32000,1,11712000,FLOAT,46.848
+/Users/zabir/Downloads/Passengership 3/20170729a-107/151035.wav,151035.wav,Passengership 3,Passengership,20170729a-107,652.0,32000,1,20864000,FLOAT,83.456
+/Users/zabir/Downloads/Passengership 3/20180921-186/111213.wav,111213.wav,Passengership 3,Passengership,20180921-186,362.0,32000,1,11584000,FLOAT,46.336
+/Users/zabir/Downloads/Passengership 3/20171020a-125/201024.wav,201024.wav,Passengership 3,Passengership,20171020a-125,544.0,32000,1,17408000,FLOAT,69.632
+/Users/zabir/Downloads/Passengership 3/20180923-188/012316.wav,012316.wav,Passengership 3,Passengership,20180923-188,44.0,32000,1,1408000,FLOAT,5.632
+/Users/zabir/Downloads/Cargo 3/20171209-85/001029.wav,001029.wav,Cargo 3,Cargo,20171209-85,540.0,32000,1,17280000,FLOAT,69.12
+/Users/zabir/Downloads/Cargo 3/20171215a-107/112126.wav,112126.wav,Cargo 3,Cargo,20171215a-107,235.0,32000,1,7520000,FLOAT,30.08
+/Users/zabir/Downloads/Cargo 3/20171215b-108/114505.wav,114505.wav,Cargo 3,Cargo,20171215b-108,360.0,32000,1,11520000,FLOAT,46.08
+/Users/zabir/Downloads/Cargo 3/20171215c-109/141018.wav,141018.wav,Cargo 3,Cargo,20171215c-109,667.0,32000,1,21344000,FLOAT,85.376
+/Users/zabir/Downloads/Cargo 3/20171207a-80/013045.wav,013045.wav,Cargo 3,Cargo,20171207a-80,463.0,32000,1,14816000,FLOAT,59.264
+/Users/zabir/Downloads/Cargo 3/20171215e-111/214529.wav,214529.wav,Cargo 3,Cargo,20171215e-111,207.0,32000,1,6624000,FLOAT,26.496
+/Users/zabir/Downloads/Cargo 3/20171207b-81/032120.wav,032120.wav,Cargo 3,Cargo,20171207b-81,551.0,32000,1,17632000,FLOAT,70.528
+/Users/zabir/Downloads/Cargo 3/20171213e-98/231302.wav,231302.wav,Cargo 3,Cargo,20171213e-98,568.0,32000,1,18176000,FLOAT,72.704
+/Users/zabir/Downloads/Cargo 3/20171202e-64/141802.wav,141802.wav,Cargo 3,Cargo,20171202e-64,559.0,32000,1,17888000,FLOAT,71.552
+/Users/zabir/Downloads/Cargo 3/20171214f-105/215513.wav,215513.wav,Cargo 3,Cargo,20171214f-105,464.0,32000,1,14848000,FLOAT,59.392
+/Users/zabir/Downloads/Cargo 3/20171214e-104/213748.wav,213748.wav,Cargo 3,Cargo,20171214e-104,249.0,32000,1,7968000,FLOAT,31.872
+/Users/zabir/Downloads/Cargo 3/20171214b-102/091542.wav,091542.wav,Cargo 3,Cargo,20171214b-102,442.0,32000,1,14144000,FLOAT,56.576
+/Users/zabir/Downloads/Passengership 2/20180426-156/114757.wav,114757.wav,Passengership 2,Passengership,20180426-156,39.0,32000,1,1248000,FLOAT,4.992
+/Users/zabir/Downloads/Passengership 2/20180506-162/054035.wav,054035.wav,Passengership 2,Passengership,20180506-162,93.0,32000,1,2976000,FLOAT,11.904
+/Users/zabir/Downloads/Passengership 2/20170511a-76/195844.wav,195844.wav,Passengership 2,Passengership,20170511a-76,569.0,32000,1,18208000,FLOAT,72.832
+/Users/zabir/Downloads/Passengership 2/20170808-110/113313.wav,113313.wav,Passengership 2,Passengership,20170808-110,70.0,32000,1,2240000,FLOAT,8.96
+/Users/zabir/Downloads/Passengership 2/20180313a-147/181647.wav,181647.wav,Passengership 2,Passengership,20180313a-147,141.0,32000,1,4512000,FLOAT,18.048
+/Users/zabir/Downloads/Passengership 2/20170625-97/000157.wav,000157.wav,Passengership 2,Passengership,20170625-97,37.0,32000,1,1184000,FLOAT,4.736
+/Users/zabir/Downloads/Passengership 2/20170605-90/174603.wav,174603.wav,Passengership 2,Passengership,20170605-90,300.0,32000,1,9600000,PCM_24,28.8
+/Users/zabir/Downloads/Passengership 2/20170716-103/111744.wav,111744.wav,Passengership 2,Passengership,20170716-103,719.0,32000,1,23008000,FLOAT,92.032
+/Users/zabir/Downloads/Passengership 2/20171017-124/095628.wav,095628.wav,Passengership 2,Passengership,20171017-124,360.0,32000,1,11520000,FLOAT,46.08
+/Users/zabir/Downloads/Passengership 2/20170715-102/041047.wav,041047.wav,Passengership 2,Passengership,20170715-102,280.0,32000,1,8960000,FLOAT,35.84
+/Users/zabir/Downloads/Passengership 2/20170912b-118/201835.wav,201835.wav,Passengership 2,Passengership,20170912b-118,172.0,32000,1,5504000,FLOAT,22.016
+/Users/zabir/Downloads/Passengership 2/20170517a-82/162940.wav,162940.wav,Passengership 2,Passengership,20170517a-82,29.0,32000,1,928000,FLOAT,3.712
+/Users/zabir/Downloads/Passengership 2/20180202-141/134746.wav,134746.wav,Passengership 2,Passengership,20180202-141,274.0,32000,1,8768000,FLOAT,35.072
+/Users/zabir/Downloads/Passengership 2/20170905-113/224957.wav,224957.wav,Passengership 2,Passengership,20170905-113,140.0,32000,1,4480000,FLOAT,17.92
+/Users/zabir/Downloads/Passengership 2/20170912a-117/184302.wav,184302.wav,Passengership 2,Passengership,20170912a-117,401.0,32000,1,12832000,FLOAT,51.328
+/Users/zabir/Downloads/Passengership 2/20170514-80/060420.wav,060420.wav,Passengership 2,Passengership,20170514-80,40.0,32000,1,1280000,FLOAT,5.12
+/Users/zabir/Downloads/Passengership 2/20170803-109/231129.wav,231129.wav,Passengership 2,Passengership,20170803-109,118.0,32000,1,3776000,FLOAT,15.104
+/Users/zabir/Downloads/Passengership 2/20171012-123/165340.wav,165340.wav,Passengership 2,Passengership,20171012-123,415.0,32000,1,13280000,FLOAT,53.12
+/Users/zabir/Downloads/Passengership 2/20170510-75/113409.wav,113409.wav,Passengership 2,Passengership,20170510-75,350.0,32000,1,11200000,FLOAT,44.8
+/Users/zabir/Downloads/Passengership 2/20170912a-116/184302.wav,184302.wav,Passengership 2,Passengership,20170912a-116,401.0,32000,1,12832000,FLOAT,51.328
+/Users/zabir/Downloads/Passengership 2/20170605a-91/191933.wav,191933.wav,Passengership 2,Passengership,20170605a-91,26.0,32000,1,832000,FLOAT,3.328
+/Users/zabir/Downloads/Passengership 2/20170802-108/230730.wav,230730.wav,Passengership 2,Passengership,20170802-108,249.0,32000,1,7968000,FLOAT,31.872
+/Users/zabir/Downloads/Passengership 2/20160616b-21/200904.wav,200904.wav,Passengership 2,Passengership,20160616b-21,797.0,32000,1,25504000,FLOAT,102.016
+/Users/zabir/Downloads/Passengership 2/20171007-122/015806.wav,015806.wav,Passengership 2,Passengership,20171007-122,300.0,32000,1,9600000,PCM_24,28.8
+/Users/zabir/Downloads/Passengership 2/20171116-130/161921.wav,161921.wav,Passengership 2,Passengership,20171116-130,230.0,32000,1,7360000,FLOAT,29.44
+/Users/zabir/Downloads/Passengership 2/20170613-92/162550.wav,162550.wav,Passengership 2,Passengership,20170613-92,267.0,32000,1,8544000,FLOAT,34.176
+/Users/zabir/Downloads/Passengership 2/20180519-169/012744.wav,012744.wav,Passengership 2,Passengership,20180519-169,46.0,32000,1,1472000,FLOAT,5.888
+/Users/zabir/Downloads/Passengership 2/20180406-152/135944.wav,135944.wav,Passengership 2,Passengership,20180406-152,119.0,32000,1,3808000,FLOAT,15.232
+/Users/zabir/Downloads/Passengership 2/20180219-145/034422.wav,034422.wav,Passengership 2,Passengership,20180219-145,196.0,32000,1,6272000,FLOAT,25.088
+/Users/zabir/Downloads/Passengership 2/20180412-154/110230.wav,110230.wav,Passengership 2,Passengership,20180412-154,85.0,32000,1,2720000,FLOAT,10.88
+/Users/zabir/Downloads/Passengership 2/20170530a-87/165315.wav,165315.wav,Passengership 2,Passengership,20170530a-87,369.0,32000,1,11808000,FLOAT,47.232
+/Users/zabir/Downloads/Passengership 2/20170522-85/110529.wav,110529.wav,Passengership 2,Passengership,20170522-85,372.0,32000,1,11904000,FLOAT,47.616
+/Users/zabir/Downloads/Passengership 2/20170202-54/183738.wav,183738.wav,Passengership 2,Passengership,20170202-54,1300.0,32000,1,41600000,FLOAT,166.4
+/Users/zabir/Downloads/Passengership 2/20171122-132/071915.wav,071915.wav,Passengership 2,Passengership,20171122-132,14.0,32000,1,448000,FLOAT,1.792
+/Users/zabir/Downloads/Passengership 2/20170925-120/101039.wav,101039.wav,Passengership 2,Passengership,20170925-120,156.0,32000,1,4992000,FLOAT,19.968
+/Users/zabir/Downloads/Passengership 2/20170616-94/174832.wav,174832.wav,Passengership 2,Passengership,20170616-94,463.0,32000,1,14816000,FLOAT,59.264
+/Users/zabir/Downloads/Passengership 2/20170826a-111/043132.wav,043132.wav,Passengership 2,Passengership,20170826a-111,74.0,32000,1,2368000,FLOAT,9.472
+/Users/zabir/Downloads/Passengership 2/20180205-142/230715.wav,230715.wav,Passengership 2,Passengership,20180205-142,330.0,32000,1,10560000,FLOAT,42.24
+/Users/zabir/Downloads/Passengership 2/20180329-150/181312.wav,181312.wav,Passengership 2,Passengership,20180329-150,72.0,32000,1,2304000,FLOAT,9.216
+/Users/zabir/Downloads/Passengership 2/20170219-58/153805.wav,153805.wav,Passengership 2,Passengership,20170219-58,533.0,32000,1,17056000,FLOAT,68.224
+/Users/zabir/Downloads/Passengership 2/20170629-99/012112.wav,012112.wav,Passengership 2,Passengership,20170629-99,274.0,32000,1,8768000,FLOAT,35.072
+/Users/zabir/Downloads/Passengership 2/20180505-160/063136.wav,063136.wav,Passengership 2,Passengership,20180505-160,152.0,32000,1,4864000,FLOAT,19.456
+/Users/zabir/Downloads/Passengership 2/20170417-67/025741.wav,025741.wav,Passengership 2,Passengership,20170417-67,265.0,32000,1,8480000,FLOAT,33.92
+/Users/zabir/Downloads/Passengership 2/20170616a-95/231343.wav,231343.wav,Passengership 2,Passengership,20170616a-95,150.0,32000,1,4800000,FLOAT,19.2
+/Users/zabir/Downloads/Passengership 2/20170915-119/210154.wav,210154.wav,Passengership 2,Passengership,20170915-119,24.0,32000,1,768000,FLOAT,3.072
+/Users/zabir/Downloads/Passengership 2/20180125-140/071504.wav,071504.wav,Passengership 2,Passengership,20180125-140,284.0,32000,1,9088000,FLOAT,36.352
+/Users/zabir/Downloads/Passengership 2/20170219-57/153805.wav,153805.wav,Passengership 2,Passengership,20170219-57,533.0,32000,1,17056000,FLOAT,68.224
+/Users/zabir/Downloads/Passengership 2/20180913-184/181821.wav,181821.wav,Passengership 2,Passengership,20180913-184,60.0,32000,1,1920000,FLOAT,7.68
+/Users/zabir/Downloads/Passengership 2/20161208-49/163603.wav,163603.wav,Passengership 2,Passengership,20161208-49,580.0,32000,1,18560000,FLOAT,74.24
+/Users/zabir/Downloads/Passengership 2/20171208d-134/023937.wav,023937.wav,Passengership 2,Passengership,20171208d-134,22.0,32000,1,704000,FLOAT,2.816
+/Users/zabir/Downloads/Passengership 2/20171001-121/105017.wav,105017.wav,Passengership 2,Passengership,20171001-121,31.0,32000,1,992000,FLOAT,3.968
+/Users/zabir/Downloads/Passengership 2/20180320-148/103759.wav,103759.wav,Passengership 2,Passengership,20180320-148,63.0,32000,1,2016000,FLOAT,8.064
+/Users/zabir/Downloads/Passengership 2/20170827-112/033909.wav,033909.wav,Passengership 2,Passengership,20170827-112,370.0,32000,1,11840000,FLOAT,47.36
+/Users/zabir/Downloads/Passengership 2/20171106a-128/184906.wav,184906.wav,Passengership 2,Passengership,20171106a-128,19.0,32000,1,608000,FLOAT,2.432
+/Users/zabir/Downloads/Passengership 2/20160629b-24/135359.wav,135359.wav,Passengership 2,Passengership,20160629b-24,1079.0,32000,1,34528000,FLOAT,138.112
+/Users/zabir/Downloads/Passengership 2/20180120-139/191134.wav,191134.wav,Passengership 2,Passengership,20180120-139,217.0,32000,1,6944000,FLOAT,27.776
+/Users/zabir/Downloads/Passengership 2/20170723-105/095606.wav,095606.wav,Passengership 2,Passengership,20170723-105,300.0,32000,1,9600000,PCM_24,28.8
+/Users/zabir/Downloads/Passengership 2/20171207-133/162949.wav,162949.wav,Passengership 2,Passengership,20171207-133,202.0,32000,1,6464000,FLOAT,25.856
+/Users/zabir/Downloads/Passengership 2/20170517b-83/225337.wav,225337.wav,Passengership 2,Passengership,20170517b-83,123.0,32000,1,3936000,FLOAT,15.744
+/Users/zabir/Downloads/Passengership 2/20170627a-98/152638.wav,152638.wav,Passengership 2,Passengership,20170627a-98,178.0,32000,1,5696000,FLOAT,22.784
+/Users/zabir/Downloads/Passengership 2/20170601-88/112643.wav,112643.wav,Passengership 2,Passengership,20170601-88,284.0,32000,1,9088000,FLOAT,36.352
+/Users/zabir/Downloads/Passengership 2/20170720a-104/110917.wav,110917.wav,Passengership 2,Passengership,20170720a-104,17.0,32000,1,544000,FLOAT,2.176
+/Users/zabir/Downloads/Passengership 2/20180922-187/124737.wav,124737.wav,Passengership 2,Passengership,20180922-187,40.0,32000,1,1280000,FLOAT,5.12
+/Users/zabir/Downloads/Passengership 2/20171110-129/224141.wav,224141.wav,Passengership 2,Passengership,20171110-129,300.0,32000,1,9600000,FLOAT,38.4
+/Users/zabir/Downloads/Passengership 2/20171106-127/044551.wav,044551.wav,Passengership 2,Passengership,20171106-127,173.0,32000,1,5536000,FLOAT,22.144
+/Users/zabir/Downloads/Passengership 2/20171120-131/163321.wav,163321.wav,Passengership 2,Passengership,20171120-131,158.0,32000,1,5056000,FLOAT,20.224
